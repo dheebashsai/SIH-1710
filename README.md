@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:29-05-2026
+## Register Number:212224040075
+## Name:Dheebash Sai R
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -11,16 +11,40 @@ Background: Railway stations are complex environments with numerous facilities a
 Ministry of Railway
 
 ## Idea
+We propose an **AI-Powered Smart Railway Station Companion System** that provides intelligent navigation and personalized assistance.
 
+###  Key Features:
+-  Smart Route Optimization (fastest path based on crowd)
+-  AI Travel Assistant (chatbot support)
+-  Crowd & Queue Prediction
+-  Smart Alerts (delays, gate changes, announcements)
+-  Context-aware navigation (elderly, disabled users)
+-  Multi-device support (mobile, kiosk, wearable)
 
 ## Proposed Solution / Architecture Diagram
 
-
+<img width="838" height="1024" alt="image" src="https://github.com/user-attachments/assets/3fad86d4-8d54-4a32-a57b-7260fda61594" />
 ## Use Cases
 
 
 ## Technology Stack
 
+| Technology | Purpose |
+|------------|--------|
+| React.js | Frontend |
+| Node.js | Backend |
+| PostgreSQL | Database |
+| Google Maps / Indoor Maps API | Navigation |
+| Firebase Authentication | Login System |
+| AI Voice Assistant | Voice Guidance |
+| Git & GitHub | Version Control |
+
 
 ## Dependencies
-
+- Indoor Mapping API  
+- GPS & Location Services  
+- Voice Recognition API  
+- Railway Data APIs  
+- Internet Connectivity  
+- Cloud Hosting  
+- Digital Kiosk Hardware 
